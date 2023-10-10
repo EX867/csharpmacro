@@ -1,3 +1,6 @@
+//dotnet run
+//dotnet build
+
 /* hid_gadget_test */
 
 #include <pthread.h>

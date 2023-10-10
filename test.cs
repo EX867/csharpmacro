@@ -1,2 +1,0 @@
-//dotnet run
-//dotnet build
