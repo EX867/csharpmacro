@@ -1,5 +1,6 @@
 //dotnet run
 //dotnet build
+// https://www.nemonein.xyz/2019/05/2074/
 
 /* hid_gadget_test */
 
